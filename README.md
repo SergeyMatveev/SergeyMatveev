@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SergeyMatveev
 - 👀 I’m interested in AI, autonomous driving and mobile apps
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me matveev.sa@gmail.com
+- 🌱 I’m currently working as Data Engineer
+- 💞️ We can collaborate on good ideas in AI field
+- 📫 You can reach me via matveev.sa@gmail.com
 
 <!---
 SergeyMatveev/SergeyMatveev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
